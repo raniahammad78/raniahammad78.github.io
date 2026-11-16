@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lifting-app",
+    "title": "Lifting & Inspection Management System",
+    "category": "mobile",
+    "summary": "Graduation thesis combining a custom Odoo 18 backend (oca_lifting_main), a Flutter mobile application, and an integrated AI predictive model for automated inspection cycles[cite: 1, 2].",
+    "stack": ["Odoo 18", "Flutter", "Dart", "Python", "PostgreSQL"],
+    "github": "https://github.com/raniahammad78/odoo-flutter-showcase"
+  },
+  {
+    "id": "odoo-addons",
+    "title": "Production Odoo 18 ERP Modules",
+    "category": "odoo",
+    "summary": "Engineered comprehensive ERP modules from scratch during internship at Lite System Technology[cite: 1], including company visit trackers, pipeline inspectors, sale credit approvals, and expense receipt previews.",
+    "stack": ["Odoo 18", "Python", "XML", "PostgreSQL", "Ubuntu Server"],
+    "github": "https://github.com/raniahammad78/odoo-flutter-showcase"
+  },
+  {
+    "id": "printer-tester",
+    "title": "CUPS Printer & Port Connection Tester",
+    "category": "odoo",
+    "summary": "Odoo utility module enabling administrators to diagnose network printers and raw socket ports directly from the ERP interface.",
+    "stack": ["Odoo 18", "Python", "XML", "CUPS"],
+    "github": "https://github.com/raniahammad78/cups_printer_connection_tester"
+  },
+  {
+    "id": "map-link",
+    "title": "Partner Quick Google Maps & Waze Link",
+    "category": "odoo",
+    "summary": "Lightweight Odoo add-on injecting direct navigation and mapping shortcuts into partner views for field agents and logistics.",
+    "stack": ["Odoo 18", "Python", "OWL", "XML"],
+    "github": "https://github.com/raniahammad78/partner_quick_map_link"
+  },
+  {
+    "id": "cv-tool",
+    "title": "Python Excel Grouping & Automation Utility",
+    "category": "ai",
+    "summary": "Python-based automation script engineered to eliminate manual tasks by parsing raw Excel data sets and executing thickness-based grouping.",
+    "stack": ["Python", "Pandas", "Automation"],
+    "github": "https://github.com/raniahammad78"
+  },
+  {
+    "id": "smart-parking",
+    "title": "Smart Car Parking & Robot Car System",
+    "category": "hardware",
+    "summary": "Embedded systems project featuring a real-time smart parking system using C++, Arduino, IR sensors, and servo motors, alongside a wireless-controlled robot car[cite: 2].",
+    "stack": ["C++", "Arduino", "Hardware Integration"],
+    "github": "https://github.com/raniahammad78"
+  }
+]
